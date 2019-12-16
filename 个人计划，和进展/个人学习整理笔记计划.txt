@@ -1,0 +1,23 @@
+1: 家中先学习补充完善java高并发笔记
+2： java JVM 
+3：公司可以先开展java 结构和算法的脑图
+4： 设计模式
+
+
+4： mysql
+5:  java Web
+6： spring springmvc
+7: spring注解
+8: mybatis
+9: springboot
+10: springcloud
+
+
+11: Linux 
+12: git 
+13：docker
+14：  redis
+15： mq
+
+
+百度网盘中的视频按照这个计划慢慢看，看了补充这个笔记

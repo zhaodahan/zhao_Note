@@ -1,0 +1,11 @@
+主攻javaWeb后端开发
+
+常用开发框架: springBoot+ springCloud+Redis+MyBatis+mysql
+
+常用开发工具： Maven + git
+
+
+拥有一年的java后台开发经验
+
+独立开发的示例系统：
+https://mall.changan.com.cn/pricecalculate/

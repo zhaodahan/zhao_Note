@@ -1,0 +1,66 @@
+		<div class="col-md-4 eduleft">
+						<div class="left1">
+							<h3>Learning</h3>
+							<p>Skills Through Study</p>
+							<span class="glyphicon glyphicon-adjust" aria-hidden="true"></span>
+						</div>
+						<div class="left1">
+							<h3>knowledge</h3>
+							<p>Academic Attainment</p>
+							<span class="glyphicon glyphicon-adjust" aria-hidden="true"></span>
+						</div>
+						<div class="left1">
+							<h3>teaching</h3>
+							<p>Practical Understanding</p>
+							<span class="glyphicon glyphicon-adjust" aria-hidden="true"></span>
+						</div>
+						<div class="left1">
+							<h3>discussion</h3>
+							<p>To Exchange Ideas</p>
+							<span class="glyphicon glyphicon-adjust" aria-hidden="true"></span>
+						</div>
+					</div>
+					<div class="col-md-8 eduright">
+						<div class="right1">
+							<h3>超优教育理念</h3>
+							<p>以人为本，全面发展，激发创造力，</p>
+							<p>开发智力，培养品质，成长新动力</p>
+
+						</div>
+						<div class="right1">
+							<h3>品牌文化</h3>
+							<p>
+								超优含义：超越自身，优质教育 <br /> 超优愿景：成为中国课后托育大品牌<br />
+
+								超优使命：让每个孩子都能享有最优质的课后教育资源 , 从孩子自身出发，激发孩子各项潜能，让孩子健康快乐的成长。<br />
+
+								超优价值观：责任，团队，创新，坚持不懈
+							</p>
+						</div>
+						<div class="right1">
+							<h3>办学理念</h3>
+							<p>童年是人生过程中最重要的阶段也是最珍贵的宝藏， 小朋友的学业成绩、品行塑造、能力培养三者缺一不可！
+
+								因此！我们要教养的孩子， 不是急于和邻家孩子一较高低的学习机器， 而是未来世界里，真正具备优异条件的人才。
+
+								正面的人格特质与价值观、 积极态度、独特想法、充满创意、妥善处理情绪、良好的人际关系… 这些，才是孩子未来赢的关键，
+								也是人生起跑点上最宝贵的基础。 在这里……每个孩子都是快乐的心肝宝贝！
+
+								孩子的智慧与潜能交给我们来挖掘，启发式教学，培养孩子德、智、体、劳、美均衡发展。 在这里……安全看得见
+
+								孩子的成长过程，需要我们从旁多加协助及观照。学习和游戏更需要安全的环境，安全往往是一个抽象的名词，我们了解您的新，管理严谨，每天全面消毒。安全的校园是我们最大的诉求给您更多的安心。
+
+								在这里……孩子未来的基础在这里
+
+								常听人家说“别输在起跑点上”，我们更要补充说明的是“别忽略孩子的个别差异”。除了提供完善的学习环境外，更深入了解，每一个孩子的特质，给孩子更多的关爱和机会，带领孩子肯定自我，建立自信和责任感，尤其针对孩子的每一个阶段，给予适当的教育，是我们的责任。
+
+								在这里……努力办好教育是我们对您的承诺
+
+								多元化的潜能教育，让孩子在日常中启发创造力，在完整的规划教学进而能提前适应小学的生活方式。孩子虽然要上小学了，还是需要很多时间注意他的安全，关心他的学业，我们有专业的师资认真负责，让您无后顾之忧。</p>
+						</div>
+						<div class="right1">
+							<h3>企业文化</h3>
+							<p>一个由懂学生、家长和教育的托辅团队创办的学生托辅优秀品牌，为国内"小饭桌"托辅行业带来高端品质的教育和温馨体贴的服务</p>
+						</div>
+					</div>
+					</div>
